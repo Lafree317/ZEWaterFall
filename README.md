@@ -1,5 +1,7 @@
 
 ![CHT瀑布流.gif](http://upload-images.jianshu.io/upload_images/1298596-8059b1112a7d6403.gif?imageMogr2/auto-orient/strip)
+
+
 面向iOS新手写的...内容较水..见谅
 
 这个demo主要是利用CHTcollectionViewWaterfall这个强大的第三方而搭建的可展开收起的瀑布流效果
